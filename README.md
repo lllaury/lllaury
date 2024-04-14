@@ -1,5 +1,6 @@
 # 💫 About Me:
-As a Computer Science major at Virginia Tech, I excel in developing robust software solutions using a variety of technologies. My technical expertise is complemented by practical experience as a STEM instructor and a developer of diverse projects, ranging from a custom Linux shell to complex game mechanics in Unity. Passionate about both backend and frontend development, I am eager to apply my problem-solving skills and adaptability in a full-stack developer role, creating impactful and innovative applications.
+I'm a Computer Science major at Virginia Tech with a knack for building robust software solutions across the full technology stack. My journey in tech spans creating custom Linux shells to developing intricate game mechanics using Unity. As a STEM instructor, I also empower future generations by teaching and refining complex programming concepts. I thrive in dynamic environments, always eager to tackle challenges in backend and frontend development to craft innovative applications that make an impact.
+
 
 
 ## 🌐 Socials:
