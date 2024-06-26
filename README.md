@@ -1,5 +1,5 @@
 # 💫 About Me:
-Recent Virginia Tech graduate with a B.S. in Computer Science and Minors in Human-Computer Interaction and Mathematics, seeking a position as a Front-end Developer. Experienced in web development and programming, with a strong academic foundation and practical skills ready to contribute to a dynamic Front-end Engineering team.
+Recent Virginia Tech graduate with a B.S. in Computer Science and Minors in Human-Computer Interaction and Mathematics, seeking a position as a Software Developer. Experienced in web development and programming, with a strong academic foundation and practical skills ready to contribute to a dynamic Front-end Engineering team.
 
 
 
