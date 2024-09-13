@@ -1,7 +1,7 @@
 # 💫 About Me:
-Recent Virginia Tech graduate with a B.S. in Computer Science and Minors in Human-Computer Interaction and Mathematics, seeking a position as a Software Developer. Experienced in web development and programming, with a strong academic foundation and practical skills ready to contribute to a dynamic Software Development team.
+I am a recent Virginia Tech graduate with a B.S. in Computer Science and a Minor in Mathematics, seeking a position as a Software Developer. I am experienced in software and web development, with a strong academic foundation and problem-solving skills, and am ready to contribute to a dynamic Software Development team.
 
-
+See my portfolio here: https://lllaury.github.io/Portfolio/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/louis-joel-llaury-2240971b7) 
